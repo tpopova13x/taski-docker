@@ -1,0 +1,4 @@
+# Файл .dockerignore
+.git
+node_modules
+build
